@@ -1,3 +1,9 @@
+/*
+sources:
+https://brennan.io/2015/01/16/write-a-shell-in-c/
+https://www.gnu.org/software/bash/manual/bash.html
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
